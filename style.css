@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: Roboto;
+}
+
+.navbar-content {
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+
+#this-navbar {
+    margin-left: auto;
+    color: #3c6ce1;
+    font-family: Roboto;
+    font-weight: 500;
+    
+}
+
+.navbar-menu {
+    border-radius: 15px;
+}
+
+.navbar-menu:hover {
+    color: white;
+    font-weight: 550;
+    border-color: #3c6ce1;
+    border-radius: 15px;
+    background-color: #3c6ce1;
+}
+
+#home {
+    color: #3c6ce1;
+    font-weight: 500;
+    border-color: #3c6ce1;
+    border-radius: 20px;
+}
+
+#home:hover {
+    color: white;
+    font-weight: 550;
+    border-color: #3c6ce1;
+    border-radius: 20px;
+    background-color: #3c6ce1;
+  
+}
+
+#footer{
+    background-color: #3c6ce1;
+}
+
+footer {
+    background-color: #3c6ce1;
+}
+
+.navbar-menu {
+    text-decoration: none;
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.navbar-menu:hover {
+    text-decoration: none;
+    color: #3c6ce1;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-weight: 550;
+    background-color: #3c6ce1;
+    color: white;
+    border-radius: 15px;
+}
+
+#navbar-brand {
+    color: #3c6ce1;
+    font-weight: 700;
+}
+
+#banner-img {
+    width:70%
+}
+
+#text-content {
+    margin-top: 20%;
+}
+
+#text-content {
+    flex-direction: column;
+    align-items: center; 
+    text-align: center; 
+    color: #3c6ce1;
+}
+
+.content-blog {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+#order {
+    background-color: #3c6ce1;
+    color: white;
+    border-radius: 20px;
+}
+
+#order:hover {
+    background-color: #3c6ce1;
+    color: white;
+    border-radius: 20px;
+    transform: scale(1.4);
+    transition: transform 0.4s ease;
+}
+
+#footer-content {
+    background-color: #3c6ce1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+.section {
+    width: 100vw;
+    height: 40vh;
+    background-color: #EF5354;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    margin: 10px 5px;
+}
+
+
+.btn-carrousel {
+    background-color: #3c6ce1;
+    color: white;
+    border-radius: 20px;
+}
+
+.btn-carrousel:hover {
+    background-color: #3c6ce1;
+    color: white;
+    border-radius: 20px;
+    transform: scale(1.4);
+    transition: transform 0.4s ease;
+}
+
+#text-footer {
+    background-color: #3c6ce1;
+    color: white;
+}
+
+.swipe-carrousel {
+    background-color: #3c6ce1;
+}
+
+#subscribe {
+    background-color: #3c6ce1;
+    color: white;
+    border-radius: 20px;
+}
